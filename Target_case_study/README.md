@@ -11,21 +11,8 @@ It explores customer behavior, order trends, freight costs, delivery performance
 - **Languages:** SQL
 
 ## 📂 Project Structure
-Target_case_study/
-│
-├── scripts/
-│ └── target_case_study_queries.sql # All SQL queries used in the analysis
-│
-├── data/
-│ └── dataset_description.txt # Info about tables & data schema
-│
-├── report/
-│ └── Target_Case_Study_Report.pdf # Full analytical report
-│
-├── diagrams/
-│ └── er_diagram.png # (Optional) ER diagram for the database
-│
-└── README.md
+<img width="386" height="230" alt="image" src="https://github.com/user-attachments/assets/98238650-55ad-41ce-8dbc-83cf98ecc26f" />
+
 
 ## 🧩 Key Analytical Sections
 
